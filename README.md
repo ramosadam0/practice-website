@@ -4,3 +4,4 @@ My personal sandbox for web development
 - Address: 123 Main Street, New York, NY 10001
 - Phone: (212) 555-0147
 - Email: hello@acmecorp.com
+- Office Hours: 3:00pm - 5:00pm
