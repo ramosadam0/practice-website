@@ -16,7 +16,7 @@ body {
   top: 0;
   left: 0;
   right: 0;
-  background-color: #1a3a5c;
+  background-color: #1a4a2e;
   padding: 14px 32px;
   display: flex;
   justify-content: space-between;
@@ -61,7 +61,7 @@ body {
 
 .card h2 {
   font-size: 18px;
-  color: #1a3a5c;
+  color: #1a4a2e;
   margin-bottom: 16px;
   padding-bottom: 10px;
   border-bottom: 2px solid #e0e8f0;
@@ -112,7 +112,7 @@ body {
 
 .contacts-table th {
   background-color: #f0f4f8;
-  color: #1a3a5c;
+  color: #1a4a2e;
   text-align: left;
   padding: 10px 12px;
   font-size: 13px;
